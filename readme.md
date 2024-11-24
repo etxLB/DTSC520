@@ -1,5 +1,5 @@
 DTSC520 Repo -
 
-- updated to newbranch
+- updated to hotfix branch
 
 
